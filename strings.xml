@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="hint"><u>Need a hint?</u></string>
+    <string name="question">Question</string>
+    <string name="answer1">Answer 1</string>
+    <string name="answer3">Answer 3</string>
+    <string name="answer2">Answer 2</string>
+    <string name="answer4">Answer 4</string>
+    <string name="home"><u>Start again!</u></string>
+    <string name="help">help</string>
+    <string name="home2">help</string>
+</resources>

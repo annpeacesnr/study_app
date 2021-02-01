@@ -1,0 +1,83 @@
+{
+	"questions": [{
+			"question": "What is the data type for an integer?",
+			"answer1": "int",
+			"answer2": "float",
+			"answer3": "integer",
+			"answer4": "int++",
+			"correct": "int"
+		},
+		{
+			"question": "What is the data type for a float?",
+			"answer1": "float",
+			"answer2": "fl",
+			"answer3": "==",
+			"answer4": "~~",
+			"correct": "float"
+		},
+		{
+			"question": "What is an object?",
+			"answer1": "A blueprint",
+			"answer2": "A member",
+			"answer3": "A state",
+			"answer4": "A section",
+			"correct": "A member"
+		},
+		{
+			"question": "Which is NOT an access modifier?",
+			"answer1": "public",
+			"answer2": "private",
+			"answer3": "protected",
+			"answer4": "open-door",
+			"correct": "open-door"
+		},
+		{
+			"question": "Which is FALSE? A constructor method...",
+			"answer1": "Lives inside the class",
+			"answer2": "Has the same class name",
+			"answer3": "uses keyword 'new'",
+			"answer4": "Can't be overloaded",
+			"correct": "Can't be overloaded"
+		},
+		{
+			"question": "Which is NOT a Boolean operator?",
+			"answer1": "true",
+			"answer2": "or",
+			"answer3": "&&",
+			"answer4": ">",
+			"correct": ">"
+		},
+		{
+			"question": "Which is the data type for a string?",
+			"answer1": "string",
+			"answer2": "...",
+			"answer3": "(string)",
+			"answer4": "(data)",
+			"correct": "string"
+		},
+		{
+			"question": "What is a class?",
+			"answer1": "A blueprint",
+			"answer2": "A member",
+			"answer3": "A program",
+			"answer4": "An attribute",
+			"correct": "A blueprint"
+		},
+		{
+			"question": "How do you output in Java?",
+			"answer1": "print",
+			"answer2": "System.out.println",
+			"answer3": "Output",
+			"answer4": "print text",
+			"correct": "System.out.println"
+		},
+		{
+			"question": "GUI stands for Grapical User...?",
+			"answer1": "interface",
+			"answer2": "instance",
+			"answer3": "index",
+			"answer4": "indentation",
+			"correct": "interface"
+		}
+	]
+}
